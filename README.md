@@ -1,18 +1,18 @@
-#Power BI Vehicle Dataset Analysis 2024
+# Power BI Vehicle Dataset Analysis 2024
 
-##Overview
+## Overview
 This repository contains a Power BI project that analyzes the "Vehicle Dataset 2024". The project includes the Power BI report file and the dataset used in the analysis.
 
-##Files
+## Files
 VehicleDataset2024.pbix - The main Power BI report file.
 VehicleDataset2024.csv - Contains vehicle details with columns: name, description, make, model, type, year, price, engine, cylinders, fuel, mileage, transmission, trim, body, doors, exterior_color, interior_color, drivetrain.
 
-##Usage
+## Usage
 Download the VehicleDataset2024.pbix file.
 Open it in Power BI Desktop.
 Ensure that the dataset file (VehicleDataset2024.csv) is placed in the folder relative to the .pbix file location.
 
-##Column Descriptors
+## Column Descriptors
 name: The full name of the vehicle, including make, model, and trim.
 description: A brief description of the vehicle, often including key features and selling points.
 make: The manufacturer of the vehicle (e.g., Ford, Toyota, BMW).
@@ -32,7 +32,7 @@ exterior_color: The exterior color of the vehicle.
 interior_color: The interior color of the vehicle.
 drivetrain: The drivetrain of the vehicle (e.g., All-wheel Drive, Front-wheel Drive).
 
-##How to Use the Dashboard
+## How to Use the Dashboard
 The dashboard provides insights into various aspects of the vehicle dataset, including:
 
 Overview Section: Quick insights with total vehicles, average price, and average mileage.
@@ -42,5 +42,5 @@ Price and Mileage Insights: Histograms and scatter plots to understand price and
 Yearly Trends: Visual trends in vehicle prices and mileage over the years.
 The dashboard includes interactive slicers for year, make, model, body style, price range, fuel type, transmission, and drivetrain to allow dynamic filtering of data.
 
-##Notes
+## Notes
 Ensure that you have Power BI Desktop installed to view and int
