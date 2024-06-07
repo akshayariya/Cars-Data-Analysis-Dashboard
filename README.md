@@ -43,4 +43,4 @@ Yearly Trends: Visual trends in vehicle prices and mileage over the years.
 The dashboard includes interactive slicers for year, make, model, body style, price range, fuel type, transmission, and drivetrain to allow dynamic filtering of data.
 
 ## Notes
-Ensure that you have Power BI Desktop installed to view and int
+Ensure that you have Power BI Desktop installed to view and interact with the .pbix file.
